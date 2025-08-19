@@ -5,14 +5,22 @@ This project aims to predict flight ticket prices using various machine learning
 # Project Structure
 <br/>
 The project is organized in a Jupyter Notebook (flight-ticket-price-prediction.ipynb) and includes the following main sections:
+
 1. Data Loading and Initial Exploration
+   
 2. Importing necessary libraries
+ 
 3. Loading the dataset
+
 4. Basic data exploration (shape, info, describe)
+
 5. Data Analysis
-6. Checking for null values
+
+6.  Checking for null values
+
 7. Identifying numerical features
-8. Outlier detection using boxplots
+
+8.  Outlier detection using boxplots
 
 # Data Preprocessing
 
